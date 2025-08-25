@@ -66,8 +66,8 @@ Predicted stock market trends using deep learning.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishalikk098count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Vishalkk098" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=325 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkk098&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5&exclude_repo=github-readme-stats" alt="Vishalkk098" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishalkk098count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Vishalkk098" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=325 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkk098&hide=Python&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5&exclude_repo=github-readme-stats" alt="Vishalkk098" />
 
 </div>
 
