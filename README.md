@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/vishal-kanaujiya-390654291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com/" target="_blank">
+  <a href="https://preview--vishalk-visionary-port.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
