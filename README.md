@@ -63,14 +63,32 @@ Predicted credit card fraud using Machine learning.
 ---
 
 ## 📊 GitHub Analytics  
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats & Skills ⚡</h2>
 <br/>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishalkk098&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Vishalkk098" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="325" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkk098&hide=Python&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5&exclude_repo=github-readme-stats" alt="Vishalkk098" />
+
+  <!-- GitHub Stats -->
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Vishalkk098&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+       alt="Vishalkk098" />
+
+  <br/><br/>
+
+  <!-- Custom Skills Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B7285?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-4C1D95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-1F2937?style=for-the-badge" />
+
+  <br/><br/>
+
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask&perline=6" />
+
 </div>
 <br/><br/>
 <hr/>
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
