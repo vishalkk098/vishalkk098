@@ -54,11 +54,11 @@ Implemented lane detection & object recognition for autonomous driving.
 🔹 **[Brain Tumor Detection (CNN + Flask)](https://github.com/vishalkanaujiya/brain-tumor-detection)**  
 Medical imaging project for brain tumor classification.  
 
-🔹 **[Customer Segmentation (ML + SQL)](https://github.com/vishalkanaujiya/customer-segmentation-ml)**  
-Applied clustering to group customers for business insights.  
+🔹 **[Customer Churn Prediction (ML )](https://github.com/vishalkanaujiya/customer-segmentation-ml)**  
+churn prediction of the customers for business insights.  
 
-🔹 **[Stock Price Prediction (LSTM)](https://github.com/vishalkanaujiya/stock-price-prediction)**  
-Predicted stock market trends using deep learning.  
+🔹 **[Credit card fraud detection (ML)](https://github.com/vishalkanaujiya/stock-price-prediction)**  
+Predicted credit card fraud using Machine learning.  
 
 ---
 
